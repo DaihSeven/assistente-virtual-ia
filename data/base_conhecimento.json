@@ -1,0 +1,76 @@
+{
+  "alimentacao": {
+    "pergunta": "Como melhorar minha alimentação?",
+    "resposta": "Uma alimentação equilibrada deve incluir frutas, verduras, proteínas, fibras e boa hidratação. Também é importante manter variedade e equilíbrio nas refeições."
+  },
+
+  "atividade_fisica": {
+    "pergunta": "Por que praticar exercícios?",
+    "resposta": "A prática regular de exercícios ajuda na saúde cardiovascular, fortalecimento muscular, controle do peso e melhora do bem-estar físico e mental."
+  },
+
+  "sono": {
+    "pergunta": "Qual a importância do sono?",
+    "resposta": "O sono adequado contribui para a recuperação do organismo, memória, concentração e funcionamento saudável do corpo."
+  },
+
+  "agua": {
+    "pergunta": "Por que beber água?",
+    "resposta": "A hidratação é importante para o funcionamento correto do organismo, ajudando na regulação da temperatura corporal e no transporte de nutrientes."
+  },
+
+  "estresse": {
+    "pergunta": "Como controlar o estresse?",
+    "resposta": "Algumas práticas podem ajudar no controle do estresse, como manter uma rotina organizada, praticar atividades físicas, descansar adequadamente e reservar momentos de lazer."
+  },
+
+  "saude_mental": {
+    "pergunta": "Por que cuidar da saúde mental?",
+    "resposta": "Cuidar da saúde mental é importante para o bem-estar, qualidade de vida, relacionamento com outras pessoas e equilíbrio emocional."
+  },
+
+  "prevencao": {
+    "pergunta": "Por que fazer prevenção de doenças?",
+    "resposta": "A prevenção ajuda a identificar riscos, manter hábitos saudáveis e buscar acompanhamento adequado quando necessário."
+  },
+
+  "exames": {
+    "pergunta": "Por que realizar exames de rotina?",
+    "resposta": "Exames de rotina podem ajudar no acompanhamento da saúde e na identificação de alterações que precisam de atenção profissional."
+  },
+
+  "higiene": {
+    "pergunta": "Qual a importância da higiene pessoal?",
+    "resposta": "A higiene pessoal ajuda a prevenir doenças e contribui para a manutenção da saúde e do bem-estar."
+  },
+
+  "postura": {
+    "pergunta": "Como melhorar a postura no dia a dia?",
+    "resposta": "Manter uma postura adequada, ajustar o ambiente de trabalho e realizar pausas durante atividades prolongadas pode contribuir para o conforto corporal."
+  },
+
+  "frutas": {
+    "pergunta": "Por que consumir frutas?",
+    "resposta": "As frutas fornecem vitaminas, minerais e fibras importantes para uma alimentação equilibrada."
+  },
+
+  "vegetais": {
+    "pergunta": "Por que consumir verduras e legumes?",
+    "resposta": "Verduras e legumes são fontes de nutrientes importantes e ajudam a tornar a alimentação mais variada e equilibrada."
+  },
+
+  "respiracao": {
+    "pergunta": "Exercícios de respiração ajudam?",
+    "resposta": "Práticas de respiração podem auxiliar no relaxamento e no controle de momentos de tensão."
+  },
+
+  "sedentarismo": {
+    "pergunta": "O que é sedentarismo?",
+    "resposta": "Sedentarismo é a falta ou baixa frequência de atividades físicas. Manter movimentos regulares pode contribuir para uma vida mais saudável."
+  },
+
+  "qualidade_vida": {
+    "pergunta": "Como melhorar a qualidade de vida?",
+    "resposta": "A qualidade de vida pode ser favorecida por hábitos como alimentação equilibrada, prática de exercícios, sono adequado, hidratação e cuidados com a saúde mental."
+  }
+}
